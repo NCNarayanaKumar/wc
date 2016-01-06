@@ -1,3 +1,7 @@
+-- ENSURE THE PREVIOUS OUTPUT OF THIS SCRIPT IS REMOVED BEFORE
+-- RUNNING THE SCRIPT AGAIN.  IF THE OLD DATA IS NOT REMOVED,
+-- THE JOB WILL FAIL IN HUE.
+
 -- Inspired by the following examples:
 -- https://gist.github.com/tomgullo/186460
 -- http://chimera.labs.oreilly.com/books/1234000001811/ch01.html
